@@ -1,0 +1,5 @@
+eth2can_node:
+  ros__parameters:
+    ip: "192.168.1.100"
+    port: 3000
+    bitrate: 500
